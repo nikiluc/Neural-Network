@@ -1,0 +1,533 @@
+Model #1
+Learning Rate: 0.3
+Hidden Layer Nodes: 30
+Iterations: 100
+Error (First Epoch): [0.047911 -0.030325]
+Error (Last Epoch): [0.000056 -0.002674]
+Train time: 23.14964985847473
+Results: 
+Average Micro Precision: 0.8076371826371826
+Average Micro Recall: 0.8076371826371826
+Average Micro F1: 0.8076371826371826
+Average Macro Precision: 0.8203054434183119
+Average Macro Recall: 0.6089620515930279
+Average Macro F1: 0.624985771520709
+Average Accuracy: 0.8076371826371826
+Model #2
+Learning Rate: 0.3
+Hidden Layer Nodes: 30
+Iterations: 100
+Error (First Epoch): [-0.001114 -0.003352]
+Error (Last Epoch): [0.001433 0.000695]
+Train time: 22.82530903816223
+Results: 
+Average Micro Precision: 0.8121416871416871
+Average Micro Recall: 0.8121416871416871
+Average Micro F1: 0.8121416871416872
+Average Macro Precision: 0.8230422937639124
+Average Macro Recall: 0.6272831099712598
+Average Macro F1: 0.6490358632790867
+Average Accuracy: 0.8121416871416871
+Model #3
+Learning Rate: 0.3
+Hidden Layer Nodes: 30
+Iterations: 100
+Error (First Epoch): [-0.000079 -0.000403]
+Error (Last Epoch): [0.000626 0.002214]
+Train time: 22.588428020477295
+Results: 
+Average Micro Precision: 0.8114250614250614
+Average Micro Recall: 0.8114250614250614
+Average Micro F1: 0.8114250614250614
+Average Macro Precision: 0.8171909156277493
+Average Macro Recall: 0.631746409549258
+Average Macro F1: 0.6542428991129401
+Average Accuracy: 0.8114250614250614
+Model #4
+Learning Rate: 0.3
+Hidden Layer Nodes: 30
+Iterations: 100
+Error (First Epoch): [0.000732 -0.000054]
+Error (Last Epoch): [0.001689 -0.001720]
+Train time: 23.05811905860901
+Results: 
+Average Micro Precision: 0.8175675675675675
+Average Micro Recall: 0.8175675675675675
+Average Micro F1: 0.8175675675675675
+Average Macro Precision: 0.8169855160242687
+Average Macro Recall: 0.6402874115284887
+Average Macro F1: 0.6658435702068107
+Average Accuracy: 0.8175675675675675
+Model #5
+Learning Rate: 0.3
+Hidden Layer Nodes: 30
+Iterations: 100
+Error (First Epoch): [-0.001134 0.001483]
+Error (Last Epoch): [-0.002447 -0.002114]
+Train time: 22.697432041168213
+Results: 
+Average Micro Precision: 0.8181818181818182
+Average Micro Recall: 0.8181818181818182
+Average Micro F1: 0.8181818181818182
+Average Macro Precision: 0.8177635023265373
+Average Macro Recall: 0.643345506798636
+Average Macro F1: 0.669468832309043
+Average Accuracy: 0.8181818181818182
+
+Model #1
+Learning Rate: 0.3
+Hidden Layer Nodes: 15
+Iterations: 100
+Error (First Epoch): [0.027051 -0.031998]
+Error (Last Epoch): [-0.001252 0.000660]
+Train time: 21.503477096557617
+Results: 
+Average Micro Precision: 0.7764127764127764
+Average Micro Recall: 0.7764127764127764
+Average Micro F1: 0.7764127764127764
+Average Macro Precision: 0.8449342706707775
+Average Macro Recall: 0.5449767739418364
+Average Macro F1: 0.5195812425713298
+Average Accuracy: 0.7764127764127764
+Model #2
+Learning Rate: 0.3
+Hidden Layer Nodes: 15
+Iterations: 100
+Error (First Epoch): [-0.000981 0.000407]
+Error (Last Epoch): [-0.000438 0.000787]
+Train time: 23.158189058303833
+Results: 
+Average Micro Precision: 0.7918714168714168
+Average Micro Recall: 0.7918714168714168
+Average Micro F1: 0.7918714168714167
+Average Macro Precision: 0.8366692200614463
+Average Macro Recall: 0.5770632282728227
+Average Macro F1: 0.5753424824507836
+Average Accuracy: 0.7918714168714168
+Model #3
+Learning Rate: 0.3
+Hidden Layer Nodes: 15
+Iterations: 100
+Error (First Epoch): [-0.000787 -0.020321]
+Error (Last Epoch): [0.001860 0.000629]
+Train time: 20.20367932319641
+Results: 
+Average Micro Precision: 0.811015561015561
+Average Micro Recall: 0.811015561015561
+Average Micro F1: 0.811015561015561
+Average Macro Precision: 0.8218997253046105
+Average Macro Recall: 0.6161829745935512
+Average Macro F1: 0.6351204310953634
+Average Accuracy: 0.811015561015561
+Model #4
+Learning Rate: 0.3
+Hidden Layer Nodes: 15
+Iterations: 100
+Error (First Epoch): [-0.002639 0.003280]
+Error (Last Epoch): [-0.001129 -0.001758]
+Train time: 19.865183353424072
+Results: 
+Average Micro Precision: 0.8158271908271908
+Average Micro Recall: 0.8158271908271908
+Average Micro F1: 0.8158271908271908
+Average Macro Precision: 0.8220086936627774
+Average Macro Recall: 0.6262845710234177
+Average Macro F1: 0.6489237067648223
+Average Accuracy: 0.8158271908271908
+Model #5
+Learning Rate: 0.3
+Hidden Layer Nodes: 15
+Iterations: 100
+Error (First Epoch): [-0.001558 0.002732]
+Error (Last Epoch): [-0.000817 -0.001899]
+Train time: 19.907872915267944
+Results: 
+Average Micro Precision: 0.8171580671580672
+Average Micro Recall: 0.8171580671580672
+Average Micro F1: 0.8171580671580672
+Average Macro Precision: 0.8277301423309306
+Average Macro Recall: 0.6382976095447015
+Average Macro F1: 0.6633896111363444
+Average Accuracy: 0.8171580671580672
+
+Model #1
+Learning Rate: 0.3
+Hidden Layer Nodes: 40
+Iterations: 250
+Error (First Epoch): [0.026015 -0.004532]
+Error (Last Epoch): [-0.002117 -0.000657]
+Train time: 61.17045187950134
+Results: 
+Average Micro Precision: 0.8107084357084358
+Average Micro Recall: 0.8107084357084358
+Average Micro F1: 0.8107084357084358
+Average Macro Precision: 0.8194328238643116
+Average Macro Recall: 0.6221124585671909
+Average Macro F1: 0.642429603093999
+Average Accuracy: 0.8107084357084358
+Model #2
+Learning Rate: 0.3
+Hidden Layer Nodes: 40
+Iterations: 250
+Error (First Epoch): [0.002651 0.002637]
+Error (Last Epoch): [-0.003177 0.002944]
+Train time: 62.71556806564331
+Results: 
+Average Micro Precision: 0.8149058149058149
+Average Micro Recall: 0.8149058149058149
+Average Micro F1: 0.814905814905815
+Average Macro Precision: 0.8162416016954328
+Average Macro Recall: 0.6429486748570886
+Average Macro F1: 0.6681334989783487
+Average Accuracy: 0.8149058149058149
+Model #3
+Learning Rate: 0.3
+Hidden Layer Nodes: 40
+Iterations: 250
+Error (First Epoch): [0.002398 -0.000363]
+Error (Last Epoch): [-0.002423 0.001624]
+Train time: 60.26083993911743
+Results: 
+Average Micro Precision: 0.8222768222768223
+Average Micro Recall: 0.8222768222768223
+Average Micro F1: 0.8222768222768223
+Average Macro Precision: 0.8224609938246438
+Average Macro Recall: 0.6500415393937122
+Average Macro F1: 0.6780374106817031
+Average Accuracy: 0.8222768222768223
+Model #4
+Learning Rate: 0.3
+Hidden Layer Nodes: 40
+Iterations: 250
+Error (First Epoch): [0.003581 -0.000711]
+Error (Last Epoch): [-0.002973 0.004610]
+Train time: 60.78870987892151
+Results: 
+Average Micro Precision: 0.8184889434889435
+Average Micro Recall: 0.8184889434889435
+Average Micro F1: 0.8184889434889435
+Average Macro Precision: 0.8172250445013384
+Average Macro Recall: 0.6463204751439584
+Average Macro F1: 0.672878074312082
+Average Accuracy: 0.8184889434889435
+Model #5
+Learning Rate: 0.3
+Hidden Layer Nodes: 40
+Iterations: 250
+Error (First Epoch): [-0.001411 -0.002479]
+Error (Last Epoch): [-0.001333 -0.002269]
+Train time: 60.104681968688965
+Results: 
+Average Micro Precision: 0.8115274365274365
+Average Micro Recall: 0.8115274365274365
+Average Micro F1: 0.8115274365274365
+Average Macro Precision: 0.8151570069059454
+Average Macro Recall: 0.6209188462092454
+Average Macro F1: 0.6413062867453659
+Average Accuracy: 0.8115274365274365
+
+Model #1
+Learning Rate: 0.1
+Hidden Layer Nodes: 60
+Iterations: 500
+Error (First Epoch): [0.045192 -0.030174]
+Error (Last Epoch): [-0.000352 0.000720]
+Train time: 150.2282109260559
+Results: 
+Average Micro Precision: 0.8175675675675675
+Average Micro Recall: 0.8175675675675675
+Average Micro F1: 0.8175675675675675
+Average Macro Precision: 0.8144137635179385
+Average Macro Recall: 0.6357704587181303
+Average Macro F1: 0.660675048335538
+Average Accuracy: 0.8175675675675675
+Model #2
+Learning Rate: 0.1
+Hidden Layer Nodes: 60
+Iterations: 500
+Error (First Epoch): [0.001586 0.000838]
+Error (Last Epoch): [-0.000884 -0.000513]
+Train time: 141.47414207458496
+Results: 
+Average Micro Precision: 0.8253480753480753
+Average Micro Recall: 0.8253480753480753
+Average Micro F1: 0.8253480753480753
+Average Macro Precision: 0.822619844316861
+Average Macro Recall: 0.6575751100543693
+Average Macro F1: 0.6870088585304461
+Average Accuracy: 0.8253480753480753
+Model #3
+Learning Rate: 0.1
+Hidden Layer Nodes: 60
+Iterations: 500
+Error (First Epoch): [0.000088 -0.019369]
+Error (Last Epoch): [0.000758 0.003294]
+Train time: 140.32274198532104
+Results: 
+Average Micro Precision: 0.8141891891891891
+Average Micro Recall: 0.8141891891891891
+Average Micro F1: 0.8141891891891891
+Average Macro Precision: 0.8049328512396694
+Average Macro Recall: 0.647600456971933
+Average Macro F1: 0.6731148822270696
+Average Accuracy: 0.8141891891891891
+Model #4
+Learning Rate: 0.1
+Hidden Layer Nodes: 60
+Iterations: 500
+Error (First Epoch): [-0.000092 -0.000521]
+Error (Last Epoch): [-0.000826 -0.019190]
+Train time: 142.17440104484558
+Results: 
+Average Micro Precision: 0.8207411957411958
+Average Micro Recall: 0.8207411957411958
+Average Micro F1: 0.8207411957411958
+Average Macro Precision: 0.8046811712113657
+Average Macro Recall: 0.6518003446429821
+Average Macro F1: 0.6793002711003231
+Average Accuracy: 0.8207411957411958
+Model #5
+Learning Rate: 0.1
+Hidden Layer Nodes: 60
+Iterations: 500
+Error (First Epoch): [0.001714 0.001937]
+Error (Last Epoch): [-0.004095 0.004888]
+Train time: 140.457017660141
+Results: 
+Average Micro Precision: 0.8178746928746928
+Average Micro Recall: 0.8178746928746928
+Average Micro F1: 0.8178746928746928
+Average Macro Precision: 0.806100790667022
+Average Macro Recall: 0.6577053960313248
+Average Macro F1: 0.6849363552208758
+Average Accuracy: 0.8178746928746928
+
+Model #1
+Learning Rate: 0.1
+Hidden Layer Nodes: 105
+Iterations: 500
+Error (First Epoch): [0.041056 -0.025763]
+Error (Last Epoch): [-0.000386 0.000419]
+Train time: 220.84812998771667
+Results: 
+Average Micro Precision: 0.8112203112203112
+Average Micro Recall: 0.8112203112203112
+Average Micro F1: 0.8112203112203112
+Average Macro Precision: 0.8074301075669412
+Average Macro Recall: 0.6323903501584525
+Average Macro F1: 0.6550884443988279
+Average Accuracy: 0.8112203112203112
+Model #2
+Learning Rate: 0.1
+Hidden Layer Nodes: 105
+Iterations: 500
+Error (First Epoch): [-0.000701 0.000618]
+Error (Last Epoch): [-0.000386 0.000787]
+Train time: 191.2777500152588
+Results: 
+Average Micro Precision: 0.8183865683865684
+Average Micro Recall: 0.8183865683865684
+Average Micro F1: 0.8183865683865684
+Average Macro Precision: 0.8095705130040368
+Average Macro Recall: 0.6517481339805008
+Average Macro F1: 0.6787474964879642
+Average Accuracy: 0.8183865683865684
+Model #3
+Learning Rate: 0.1
+Hidden Layer Nodes: 105
+Iterations: 500
+Error (First Epoch): [-0.002530 0.000280]
+Error (Last Epoch): [-0.002366 0.001057]
+Train time: 189.6336030960083
+Results: 
+Average Micro Precision: 0.8208435708435708
+Average Micro Recall: 0.8208435708435708
+Average Micro F1: 0.8208435708435708
+Average Macro Precision: 0.8106773615226701
+Average Macro Recall: 0.6542063734125083
+Average Macro F1: 0.6820295229282124
+Average Accuracy: 0.8208435708435708
+Model #4
+Learning Rate: 0.1
+Hidden Layer Nodes: 105
+Iterations: 500
+Error (First Epoch): [0.000785 0.002040]
+Error (Last Epoch): [-0.001629 0.001938]
+Train time: 189.750479221344
+Results: 
+Average Micro Precision: 0.8216625716625716
+Average Micro Recall: 0.8216625716625716
+Average Micro F1: 0.8216625716625716
+Average Macro Precision: 0.8145225991022194
+Average Macro Recall: 0.6531656248752903
+Average Macro F1: 0.6811812611538789
+Average Accuracy: 0.8216625716625716
+Model #5
+Learning Rate: 0.1
+Hidden Layer Nodes: 105
+Iterations: 500
+Error (First Epoch): [0.000064 -0.000577]
+Error (Last Epoch): [-0.000131 0.001558]
+Train time: 192.9962272644043
+Results: 
+Average Micro Precision: 0.824017199017199
+Average Micro Recall: 0.824017199017199
+Average Micro F1: 0.824017199017199
+Average Macro Precision: 0.8124141953409547
+Average Macro Recall: 0.6592304943585677
+Average Macro F1: 0.6881859364384578
+Average Accuracy: 0.824017199017199
+
+
+Model #1
+Learning Rate: 0.1
+Hidden Layer Nodes: 30
+Iterations: 250
+Error (First Epoch): [0.051525 -0.032032]
+Error (Last Epoch): [0.000176 0.000227]
+Train time: 67.72126722335815
+Results: 
+Average Micro Precision: 0.8117321867321867
+Average Micro Recall: 0.8117321867321867
+Average Micro F1: 0.8117321867321867
+Average Macro Precision: 0.8086021126091782
+Average Macro Recall: 0.6252838208601346
+Average Macro F1: 0.6467953574211309
+Average Accuracy: 0.8117321867321867
+Model #2
+Learning Rate: 0.1
+Hidden Layer Nodes: 30
+Iterations: 250
+Error (First Epoch): [0.012967 0.000359]
+Error (Last Epoch): [-0.000928 0.001486]
+Train time: 63.29660177230835
+Results: 
+Average Micro Precision: 0.8165438165438166
+Average Micro Recall: 0.8165438165438166
+Average Micro F1: 0.8165438165438165
+Average Macro Precision: 0.815319897265125
+Average Macro Recall: 0.6366397785640248
+Average Macro F1: 0.6613954697604887
+Average Accuracy: 0.8165438165438166
+Model #3
+Learning Rate: 0.1
+Hidden Layer Nodes: 30
+Iterations: 250
+Error (First Epoch): [0.000208 -0.000214]
+Error (Last Epoch): [0.025880 -0.000415]
+Train time: 57.93300914764404
+Results: 
+Average Micro Precision: 0.802006552006552
+Average Micro Recall: 0.802006552006552
+Average Micro F1: 0.802006552006552
+Average Macro Precision: 0.8353359511343804
+Average Macro Recall: 0.6048467350239168
+Average Macro F1: 0.6173061080023696
+Average Accuracy: 0.802006552006552
+Model #4
+Learning Rate: 0.1
+Hidden Layer Nodes: 30
+Iterations: 250
+Error (First Epoch): [-0.000745 0.000597]
+Error (Last Epoch): [-0.001026 0.002643]
+Train time: 56.625255823135376
+Results: 
+Average Micro Precision: 0.8171580671580672
+Average Micro Recall: 0.8171580671580672
+Average Micro F1: 0.8171580671580672
+Average Macro Precision: 0.8178048171778276
+Average Macro Recall: 0.6429661993690794
+Average Macro F1: 0.6687642946299089
+Average Accuracy: 0.8171580671580672
+Model #5
+Learning Rate: 0.1
+Hidden Layer Nodes: 30
+Iterations: 250
+Error (First Epoch): [0.026293 -0.001566]
+Error (Last Epoch): [-0.001220 0.004342]
+Train time: 56.749582052230835
+Results: 
+Average Micro Precision: 0.8179770679770679
+Average Micro Recall: 0.8179770679770679
+Average Micro F1: 0.8179770679770679
+Average Macro Precision: 0.8120033532461677
+Average Macro Recall: 0.6433660488272273
+Average Macro F1: 0.6694266497543089
+Average Accuracy: 0.8179770679770679
+
+
+Model #1
+Learning Rate: 0.3
+Hidden Layer Nodes: 60
+Iterations: 100
+Error (First Epoch): [0.046708 -0.028580]
+Error (Last Epoch): [-0.000212 -0.022222]
+Train time: 32.54849290847778
+Results: 
+Average Micro Precision: 0.801085176085176
+Average Micro Recall: 0.801085176085176
+Average Micro F1: 0.801085176085176
+Average Macro Precision: 0.8288676028571246
+Average Macro Recall: 0.602314659854422
+Average Macro F1: 0.6139312874963972
+Average Accuracy: 0.801085176085176
+Model #2
+Learning Rate: 0.3
+Hidden Layer Nodes: 60
+Iterations: 100
+Error (First Epoch): [-0.001417 0.001863]
+Error (Last Epoch): [-0.003014 0.000207]
+Train time: 30.42896318435669
+Results: 
+Average Micro Precision: 0.8112203112203112
+Average Micro Recall: 0.8112203112203112
+Average Micro F1: 0.8112203112203112
+Average Macro Precision: 0.8173932549261044
+Average Macro Recall: 0.6182686085507153
+Average Macro F1: 0.6378968326563237
+Average Accuracy: 0.8112203112203112
+Model #3
+Learning Rate: 0.3
+Hidden Layer Nodes: 60
+Iterations: 100
+Error (First Epoch): [0.001731 0.003855]
+Error (Last Epoch): [0.000498 -0.001895]
+Train time: 30.49044680595398
+Results: 
+Average Micro Precision: 0.8076371826371826
+Average Micro Recall: 0.8076371826371826
+Average Micro F1: 0.8076371826371826
+Average Macro Precision: 0.8034313449941194
+Average Macro Recall: 0.6208781245430692
+Average Macro F1: 0.6404328165732825
+Average Accuracy: 0.8076371826371826
+Model #4
+Learning Rate: 0.3
+Hidden Layer Nodes: 60
+Iterations: 100
+Error (First Epoch): [0.023785 0.002640]
+Error (Last Epoch): [-0.001261 -0.001995]
+Train time: 31.600903272628784
+Results: 
+Average Micro Precision: 0.8128583128583129
+Average Micro Recall: 0.8128583128583129
+Average Micro F1: 0.812858312858313
+Average Macro Precision: 0.8145767769782891
+Average Macro Recall: 0.633609409259037
+Average Macro F1: 0.6568708032456323
+Average Accuracy: 0.8128583128583129
+Model #5
+Learning Rate: 0.3
+Hidden Layer Nodes: 60
+Iterations: 100
+Error (First Epoch): [-0.001286 0.003086]
+Error (Last Epoch): [-0.001150 0.003490]
+Train time: 29.72866678237915
+Results: 
+Average Micro Precision: 0.8175675675675675
+Average Micro Recall: 0.8175675675675675
+Average Micro F1: 0.8175675675675675
+Average Macro Precision: 0.821337839203041
+Average Macro Recall: 0.6374665328511051
+Average Macro F1: 0.6625941006823415
+Average Accuracy: 0.8175675675675675
